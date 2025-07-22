@@ -1,3 +1,5 @@
+clc;clear;close all;
+
 syms Wn Nd Wp Na V real
 x = [Wn, Nd, Wp, Na, V];
 
